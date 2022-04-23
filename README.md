@@ -1,4 +1,4 @@
-# Mozart-Sonata-Melody
+# Mozart-Piano-Melody
 Melody-separated Dataset of Mozart Piano Sonatas in MIDI format. 
 
 ```
