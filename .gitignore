@@ -1,6 +1,0 @@
-*.DS_Store
-*.mscx,
-*.mscz,
-.~*
-.ipynb_checkpoints*
-__pycache__
